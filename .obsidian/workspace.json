@@ -13,28 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Backend Skill.md",
+                "file": "Draft Prompt.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Backend Skill"
-            }
-          }
-        ]
-      },
-      {
-        "id": "6051344f901c6c52",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "54c712b692c1aee0",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "title": "Draft Prompt"
             }
           }
         ]
@@ -110,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Draft Prompt.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Draft Prompt"
             }
           },
           {
@@ -128,11 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Draft Prompt.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from Draft Prompt"
             }
           },
           {
@@ -156,12 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Draft Prompt.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Draft Prompt"
             }
           }
         ]
@@ -181,10 +168,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "54c712b692c1aee0",
+  "active": "096c86b043bdf793",
   "lastOpenFiles": [
+    "Untitled.md",
+    "Draft Prompt.md",
+    "Git/Learn The Basics.md",
     "Backend Skill.md",
-    "Backend",
+    "Git",
     "Welcome.md"
   ]
 }
